@@ -65,3 +65,9 @@
   border-width: 1px;
   border-radius: 2px;
 }
+
+.modal-header button {
+  color: rgb(200,200,200);
+  text-shadow: none;
+  font-size: 15px;
+}
